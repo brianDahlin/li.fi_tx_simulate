@@ -6,7 +6,8 @@
 ## Endpoints
 
 - `GET /simulate` — расчёт (сколько BTC получится, комиссии, slippage, газ).  
-  Пример:
+   Пример:
   ```bash
   curl "http://localhost:3000/simulate?amount=0.1&fromAddress=0x...&btcAddress=bc1...&format=table"
   ```
+  123
