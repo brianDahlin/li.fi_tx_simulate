@@ -1,0 +1,7 @@
+{
+  "type": "module",
+  "dependencies": {
+    "express": "^5.1.0",
+    "table": "^6.9.0"
+  }
+}
